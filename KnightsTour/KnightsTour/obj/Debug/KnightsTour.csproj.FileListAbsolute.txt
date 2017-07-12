@@ -1,0 +1,6 @@
+C:\Visual Studios\projects\KnightsProblem\KnightsTour\KnightsTour\bin\Debug\KnightsTour.exe.config
+C:\Visual Studios\projects\KnightsProblem\KnightsTour\KnightsTour\bin\Debug\KnightsTour.exe
+C:\Visual Studios\projects\KnightsProblem\KnightsTour\KnightsTour\bin\Debug\KnightsTour.pdb
+C:\Visual Studios\projects\KnightsProblem\KnightsTour\KnightsTour\obj\Debug\KnightsTour.csprojResolveAssemblyReference.cache
+C:\Visual Studios\projects\KnightsProblem\KnightsTour\KnightsTour\obj\Debug\KnightsTour.exe
+C:\Visual Studios\projects\KnightsProblem\KnightsTour\KnightsTour\obj\Debug\KnightsTour.pdb
